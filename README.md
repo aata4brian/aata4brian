@@ -1,4 +1,4 @@
-# Brian Baldan
+# Moch. Brian Mursyidan Baldan
 
 **Robotics & Artificial Intelligence Engineering Student · Universitas Airlangga**
 
