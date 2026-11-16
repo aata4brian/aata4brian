@@ -25,7 +25,6 @@ Python, C++, ESP32, Arduino, FreeRTOS, NumPy, pandas, TypeScript, Next.js, and F
 
 ## Outside the code
 
-- Led BRIDO WCT / KRAI KOMBO, August 2025–June 2026.
 - Director of Skill Development at BEM Universitas Airlangga, March–December 2025.
 - Cohort representative for TRKB 2024.
 
